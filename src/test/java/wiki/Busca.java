@@ -39,7 +39,7 @@ public class Busca {
 	static String pastaFoto = new SimpleDateFormat("yyyy-MM-dd HH-mm").format(Calendar.getInstance().getTime());
 	
 	// Métodos de Apoio
-//	teste git 
+//	teste git hoje
 	
 	
 	// Método para tirar print (screenshot)
